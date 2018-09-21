@@ -1,4 +1,4 @@
-#README
+# README
 
 testing git on mac
 
