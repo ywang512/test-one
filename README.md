@@ -11,3 +11,8 @@ Testing git using Terminal.
 food a 
 food b
 food c
+
+
+hobby a
+hobby b
+hobby c
